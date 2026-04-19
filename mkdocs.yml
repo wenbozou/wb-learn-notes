@@ -1,3 +1,6 @@
 site_name: wb-learn-notes
-
-theme: readthedocs
+site_url: https://mydomain.org/mysite
+theme:
+  name: readthedocs
+docs_dir: docs
+site_dir: site
