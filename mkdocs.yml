@@ -7,18 +7,18 @@ site_dir: site
 
 nav:
   - Home: index.md
-  - Guides: 
-    - MkDocs: guides/mkdocs.md
-    - others: guides/others.md
-  - book-notes:
-      - book: book-notes/index.md
-  - tool-notes: 
-    - tool: tool-notes/index.md
-  - work-notes:
-    - work: work-notes/index.md
-  - language:
-    - cpp: 
-      - cpp: language/cpp/index.md
-    - language: language/index.md
-  - platform-system:
-    - platform-system: platform-system/index.md
+#  - Guides: 
+#    - MkDocs: guides/mkdocs.md
+#    - others: guides/others.md
+#  - book-notes:
+#      - book: book-notes/index.md
+#  - tool-notes: 
+#    - tool: tool-notes/index.md
+#  - work-notes:
+#    - work: work-notes/index.md
+#  - language:
+#    - cpp: 
+#      - cpp: language/cpp/index.md
+#    - language: language/index.md
+#  - platform-system:
+#    - platform-system: platform-system/index.md
