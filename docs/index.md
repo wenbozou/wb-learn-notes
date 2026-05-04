@@ -1,3 +1,3 @@
 # Home
 
-Welcome to my learning notes.
+Welcome to my learning notes...
