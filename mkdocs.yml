@@ -19,7 +19,6 @@ nav:
   - language:
     - cpp: 
       - cpp: language/cpp/index.md
-      - hello: language/cpp/hello.md
     - language: language/index.md
   - platform-system:
     - platform-system: platform-system/index.md
