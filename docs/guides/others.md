@@ -8,3 +8,8 @@
 - [Claude Code Docs 中文](https://code.claude.com/docs/zh-CN)
 
 - [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/getting-started)
+
+## Agent Skill
+- [Skills 规范](https://agentskills.io/specification)
+- [Skill 市场](https://skills.sh/)
+- [Skill 市场中文](https://skillsmp.com/zh/search)
