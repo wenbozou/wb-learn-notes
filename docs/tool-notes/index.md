@@ -1,9 +1,3 @@
 # tool-notes
 
-## 
-
-- 
-这是一个链接 [Mrkdown语法](https://markdown.com.cn/)
-
-- 
-这是一个链接 [Markdown语法](https://markdown.com.cn "最好的markdown教程")。
+- [cc switch](https://github.com/farion1231/cc-switch): 切换大模型，支持配置第三方大模型
