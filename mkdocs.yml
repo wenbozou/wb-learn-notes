@@ -16,6 +16,7 @@ nav:
     - tool: tool-notes/index.md
   - work-notes:
     - work: work-notes/index.md
+    - git: work-notes/常用Git命令清单.md
   - language:
     - cpp: 
       - cpp: language/cpp/index.md
